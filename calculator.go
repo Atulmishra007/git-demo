@@ -1,5 +1,6 @@
 package main
 
-func add(a int, b int) int {
+func add(2 int, 0 int) int {
 return 2
+
 }
