@@ -1,11 +1,11 @@
 package main
 import "testing"
 
-func test_add_5_2 (t *testing.T) {
+func test_add_2_0 (t *testing.T) {
 	/ define variables for test / Preparation
-	a := 5
-	b := 2
-	wanted := 7
+	a := 2
+	b := 0
+	wanted := 2
 
 	// call function to test
 	got := Add(a, b)
