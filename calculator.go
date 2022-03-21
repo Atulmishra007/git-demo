@@ -1,6 +1,11 @@
 package main
 
-func add(2 int, 0 int) int {
-return 2
+func Add(a int, b int) int {
+    return a + b
 
 }
+func Sub(a int, b int) int {
+	return a - b
+	
+}
+
